@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://emma-trayanova.netlify.app/)
+- Website - [Emma Trayanova](https://emma-trayanova.netlify.app/)
 - Frontend Mentor - [@ve00ryca](https://www.frontendmentor.io/profile/ve00ryca)
 
 ## Acknowledgments
