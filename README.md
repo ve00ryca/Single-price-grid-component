@@ -32,6 +32,12 @@ Users should be able to:
 
 ### Built with
 
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
+- Figma based design
+
 ## Author
 
 - Website - [Emma Trayanova](https://emma-trayanova.netlify.app/)
