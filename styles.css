@@ -69,8 +69,12 @@ main {
   grid-template-rows: 1fr 1fr 1fr;
   grid-template-columns: 1fr;
   border-radius: 5px 5px 0 0 !important;
+  box-shadow: 5px 5px 5px var(--gray);
+  transition: 1s ease;
 }
-
+.container:hover {
+  transform: translate(10px);
+}
 .item {
   padding: 1em 2em;
   line-height: 1.6rem;
