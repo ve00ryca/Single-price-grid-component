@@ -76,7 +76,7 @@ main {
   transform: translate(10px);
 }
 .item {
-  padding: 1em 2em;
+  padding: 1.5em 2em 1em 2em;
   line-height: 1.6rem;
   grid-column: 1/2;
 }
